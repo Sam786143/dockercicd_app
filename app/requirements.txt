@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-dotenv
+pillow
+numpy
+paddleocr
+cohere
+PyMuPDF
+python-docx
+pydantic
+paddlepaddle  
+streamlit
+langchain
